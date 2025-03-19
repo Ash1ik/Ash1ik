@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **App Development using Kotlin**
 
-- 💬 Ask me about **Kotlin, Java , OOP, Data Structure**
+- 💬 Ask me about **Kotlin, Jetpack Compose , Java , OOP, Data Structure**
 
 - 📫 How to reach me **apurbocse2021@gmail.com**
 
