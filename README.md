@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashik Iqbal</h1>
-<h3 align="center">A passionate App developer from Bangladesh</h3>
+<h3 align="center">A passionate Android App developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashi1kiqbal&label=Profile%20views&color=0e75b6&style=flat" alt="ashi1kiqbal" /> </p>
 
