@@ -13,7 +13,7 @@
 
 I'm an Android developer from Bangladesh passionate about building modern, efficient mobile applications. I enjoy turning complex problems into simple, beautiful and intuitive solutions. When I'm not coding, you can find me exploring new technologies or contributing to open source projects.
 
-- 🌱 I’m currently learning **Kotlin and Compose Multiplatform**
+- 🌱 I’m currently learning **Advanced Kotlin Coroutines and Jetpack Compose**
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
 - 💬 Ask me about **Kotlin, Jetpack Compose, Java, OOP, Data Structures**
 - 📫 How to reach me **ashikiqbal.nitercse@gmail.com**
@@ -41,16 +41,13 @@ I'm an Android developer from Bangladesh passionate about building modern, effic
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashi1kiqbal&show_icons=true&theme=radical&hide_border=true" alt="ashi1kiqbal" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashi1kiqbal&theme=radical&hide_border=true&layout=compact" alt="ashi1kiqbal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashi1kiqbal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="ashi1kiqbal" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashi1kiqbal&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="ashi1kiqbal" width="41%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashi1kiqbal&theme=radical&hide_border=true" alt="ashi1kiqbal" />
+  <img src="https://streak-stats.demolab.com?user=ashi1kiqbal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ashi1kiqbal" />
 </p>
-
-## 📈 Activity Graph
-[![Ashik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashi1kiqbal&theme=react-dark&hide_border=true)](https://github.com/ashi1kiqbal)
 
 ## 📫 Connect with Me
 
@@ -58,7 +55,7 @@ I'm an Android developer from Bangladesh passionate about building modern, effic
   <a href="https://linkedin.com/in/ash1ik-iqbal" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashik-iqbal17" />
   </a>
-  <a href="https://facebook.com/ashi1k" target="blank">
+  <a href="https://fb.com/ashi1k" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ashi1k" />
   </a>
   <a href="https://instagram.com/hulu_dada" target="blank">
