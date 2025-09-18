@@ -32,5 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash1ik&" alt="ash1ik" /></p>
 
-
-can you add a animated picture
