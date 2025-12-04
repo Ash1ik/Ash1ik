@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working at [SMAC IT Limited](https://smac-it.com/) as a Junior Software Engineer (Kotlin Developer)
 
-- 🌱 I’m currently learning **Kotlin Multi platform and Compose Multi platform**
+- 🌱 I’m currently learning **Kotlin Multiplatform and Compose Multiplatform**
+
+- 🌐 Check out my **[Portfolio Website](https://ash1ik.github.io/)**
 
 - 👯 I’m looking to collaborate on **Full-Time/ Project base work**
 
@@ -19,6 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://ash1ik.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="website" height="30" /></a>
+<a href="https://www.linkedin.com/in/ashi1kiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashi1kiqbal" height="30" width="40" /></a>
+<a href="https://wa.me/8801571291568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 <a href="https://fb.com/ashi1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashi1k" height="30" width="40" /></a>
 <a href="https://instagram.com/hulu_dada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hulu_dada" height="30" width="40" /></a>
 </p>
@@ -31,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash1ik&show_icons=true&locale=en" alt="ash1ik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash1ik&" alt="ash1ik" /></p>
-
