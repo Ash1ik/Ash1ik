@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash1ik&label=Profile%20views&color=0e75b6&style=flat" alt="ash1ik" /> </p>
 
-- 🔭 I’m currently working at [SMAC IT Limited](https://smac-it.com/) as a Junior Software Engineer (Kotlin Developer)
+- 🔭 I’m currently working at [SMAC IT Limited](https://smac-it.com/) as a Junior Software Engineer (Android Developer)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform and Compose Multiplatform**
 
-- 🌐 Check out my **[Portfolio Website](https://ash1ik.github.io/)**
+- 🌐 Check out my **[Portfolio Website](https://ash1ik.github.io/)** (Under Development)
 
 - 👯 I’m looking to collaborate on **Full-Time/ Project base work**
 
