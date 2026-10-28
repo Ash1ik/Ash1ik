@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Full-Time/ Project base work**
 
-- 📄 Know about my experiences [Ashik_Iqbal_Resume](https://drive.google.com/file/d/1VxooOsoIDoqcjUhjrIs_cpQswvi7R2fV/view?usp=sharing)
-
 - 💬 Ask me about **Android, Java, Jetpack Compose, Kotlin, OOP, DSA**
 
 - 📫 How to reach me **ashikiqbal.nitercse@gmail.com**
