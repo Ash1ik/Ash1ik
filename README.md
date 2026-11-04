@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform and Compose Multiplatform**
 
-- 🌐 Check out my **[Portfolio Website](https://ashikiqbal.vercel.app/)** (Under Development)
+- 🌐 Check out my **[Portfolio Website](https://ashikiqbal.com/)**
 
 - 👯 I’m looking to collaborate on **Full-Time/ Project base work**
 
